@@ -54,7 +54,7 @@ public class VirusTreeTest {
 		assertEquals("B", toStringBrief(st));
 	}
 
-	// A.sh(B, C) = A
+
 	// A.sh(D, F) = B
 	// A.sh(D, I) = B
 	// A.sh(H, I) = H
